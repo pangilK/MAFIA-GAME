@@ -26,7 +26,7 @@ public abstract class Client extends Abstract implements Initializable{
 	// 시작할때 서버에 연결
 	public void startClient() {
 		try {
-			String ip = "10.100.205.16";
+			String ip = "localhost";
 			// this.ip = InetAddress.getByName(ip);
 			server = new Socket(ip, 5001);
 			printer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(server.getOutputStream())), true);
