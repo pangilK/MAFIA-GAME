@@ -1,5 +1,6 @@
 <div align="center">
 	
+![title](https://github.com/pangilK/MAFIA-GAME/assets/129753181/e7e4dc32-1ea0-4478-8af2-603c2cbf58d5)
 
 ![mafia](https://github.com/pangilK/TAG1/assets/129753181/7b6e4af0-acf0-4d97-8aeb-9a247370e038)
 
